@@ -1,3 +1,4 @@
+
 function _0x5005() {
   var _0x45ab74 = ['appCheck',
     '22257npNZor',
